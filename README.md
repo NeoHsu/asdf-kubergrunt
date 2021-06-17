@@ -6,6 +6,10 @@
 
 </div>
 
+# Build History
+
+[![Build history](https://buildstats.info/github/chart/NeoHsu/asdf-kubergrunt?branch=master)](https://github.com/NeoHsu/asdf-kubergrunt/actions)
+
 # Contents
 
 - [Dependencies](#dependencies)
